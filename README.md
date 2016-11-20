@@ -1,9 +1,10 @@
 # TestTaskJR
 
-required: 
-  mysql server
-  mysql workbench (for script execution) or intelij ultimate
+#required: 
+  mysql server     
+  mysql workbench (for script execution) or intelij ultimate    
   tomcat
-start page:
-  /
-  /users
+
+#start page:
+  /   
+  /users  
