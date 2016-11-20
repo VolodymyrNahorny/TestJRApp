@@ -37,6 +37,7 @@ public class UserDAOImpl implements UserDAO {
     public User getUserById(int id) {
         Session session = this.sessionFactory.getCurrentSession();
         User user = (User) session.load(User.class, new Integer(id));
+        System.out.println("Selected user: "+user);
         return user;
     }
     public void createUser(User user) {
