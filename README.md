@@ -9,5 +9,5 @@
   /   
   /users 
 #search does not work with Cyrillic
-#create\edit fields does not work with Cyrillic
+#create\update fields does not work with Cyrillic
 #do not enter letters to age field int create\update form
