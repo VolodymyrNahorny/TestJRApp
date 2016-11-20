@@ -1,4 +1,4 @@
-# TestTaskJR
+# TestTaskJR  CRUD
 
 #required: 
   mysql server     
